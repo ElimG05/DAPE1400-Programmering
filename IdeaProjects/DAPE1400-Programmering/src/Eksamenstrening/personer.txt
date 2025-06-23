@@ -1,0 +1,12 @@
+
+Navn: Elim
+Aldersgruppe: ungdom
+-----------------------------
+
+Navn: Elias
+Aldersgruppe: barn
+-----------------------------
+
+Navn: Vanessa
+Aldersgruppe: voksen
+-----------------------------
